@@ -1,4 +1,4 @@
-# Spring-REST-Data-TP---Bank
+# Bank Managment Spring REST Data
 
 This project demonstrates a **Spring Boot REST Data** application for managing bank accounts. It showcases a simple architecture with entities, repositories, configuration, and Swagger integration for API documentation.
 
